@@ -21,7 +21,32 @@ This project demonstrates modern Android development practices, clean code organ
 
 *Screenshots will be added soon.*
 
-## Tech Stack
+## Screenshots
+
+### Home
+Discover popular GitHub repositories.
+
+![DevFinder Home](screenshots/home.jpg)
+
+### Search
+Search repositories and filter by programming language and stars.
+
+![DevFinder Search](screenshots/search.jpg)
+
+### Repository Details
+Explore repository information and save your favorites.
+
+![DevFinder Details](screenshots/detail.jpg)
+
+### Saved Repositories
+Access your favorite repositories, even offline.
+
+![DevFinder Saved](screenshots/saved.jpg)
+
+### Profile
+Learn more about the app and its developer.
+
+![DevFinder Profile](screenshots/profile.jpg)
 
 | Technology | Purpose |
 |---|---|
